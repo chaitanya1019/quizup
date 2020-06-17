@@ -1,0 +1,46 @@
+{
+   "points":10,
+   "time":10000,
+   "questions":[
+      {
+         "title":"What is the value of pi?",
+         "answer":2,
+         "options":[
+            "1",
+            "2",
+            "3.1457",
+            "None"
+         ]
+      },
+      {
+         "title":"What is the capital of India?",
+         "answer":0,
+         "options":[
+            "Delhi",
+            "Bengaluru",
+            "Mumbai",
+            "Hyderabad"
+         ]
+      },
+      {
+         "title":"Who is the president of India?",
+         "answer":0,
+         "options":[
+            "Ram nath Kovind",
+            "Pratibha Patil",
+            "Pranab Mukherjee",
+            "None"
+         ]
+      },
+      {
+         "title":"What is the captain of Indian Cricket team",
+         "answer":0,
+         "options":[
+            "MS Dhoni",
+            "Rohith Sharma",
+            "Ravindra Jadeja",
+            "Virat Kohli"
+         ]
+      }
+   ]
+}
