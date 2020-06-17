@@ -44,5 +44,27 @@
             ]
          }
       ]
+   },
+   "normalQuiz":{
+      "subjects":[
+         {
+            "Id":1,
+            "title":"Math",
+            "nbQuestions":10,
+            "time":3600
+         },
+         {
+            "Id":2,
+            "title":"Politics",
+            "nbQuestions":10,
+            "time":3600
+         },
+         {
+            "Id":3,
+            "title":"Science",
+            "nbQuestions":10,
+            "time":3600
+         }
+      ]
    }
 }
