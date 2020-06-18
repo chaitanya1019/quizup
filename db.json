@@ -1,11 +1,11 @@
 {
    "crazyquiz":{
       "points":10,
-      "time":10000,
+      "time":300,
       "questions":[
          {
             "title":"What is the value of pi?",
-            "answer":2,
+            "answer":"2",
             "options":[
                "1",
                "2",
@@ -15,7 +15,7 @@
          },
          {
             "title":"What is the capital of India?",
-            "answer":0,
+            "answer":"0",
             "options":[
                "Delhi",
                "Bengaluru",
@@ -25,7 +25,7 @@
          },
          {
             "title":"Who is the president of India?",
-            "answer":0,
+            "answer":"0",
             "options":[
                "Ram nath Kovind",
                "Pratibha Patil",
@@ -35,42 +35,12 @@
          },
          {
             "title":"What is the captain of Indian Cricket team",
-            "answer":0,
+            "answer":"3",
             "options":[
                "MS Dhoni",
                "Rohith Sharma",
                "Ravindra Jadeja",
                "Virat Kohli"
-            ]
-         }
-      ]
-   },
-   "normalQuiz":{
-      "subjects":[
-         {
-            "Id":1,
-            "title":"Math",
-            "nbQuestions":10,
-            "time":3600
-         },
-         {
-            "Id":2,
-            "title":"Politics",
-            "nbQuestions":10,
-            "time":3600
-         }
-      ],
-      "questions":[
-         {
-            "subjectId":1,
-            "id":1,
-            "title":"What is the value of pi?",
-            "answerSelectionType":"single",
-            "options":[
-               "1",
-               "2",
-               "3.1457",
-               "None"
             ]
          }
       ]
