@@ -58,12 +58,20 @@
             "title":"Politics",
             "nbQuestions":10,
             "time":3600
-         },
+         }
+      ],
+      "questions":[
          {
-            "Id":3,
-            "title":"Science",
-            "nbQuestions":10,
-            "time":3600
+            "subjectId":1,
+            "id":1,
+            "title":"What is the value of pi?",
+            "answerSelectionType":"single",
+            "options":[
+               "1",
+               "2",
+               "3.1457",
+               "None"
+            ]
          }
       ]
    }
